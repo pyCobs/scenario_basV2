@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# excel
+*.xlsm
+*.xlsx
+
+# python not to import
+temp.py
+
 # C extensions
 *.so
 
